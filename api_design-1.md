@@ -1,5 +1,5 @@
 * http://api.agencyx.gov
-  * 
+  * End point with basic information
 * http://api.agencyx.gov/data
   * Index of data sets
 * http://api.agencyx.gov/data/set1
